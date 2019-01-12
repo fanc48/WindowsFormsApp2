@@ -77,9 +77,9 @@
             // checkedListBox1
             // 
             this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Location = new System.Drawing.Point(132, 87);
+            this.checkedListBox1.Location = new System.Drawing.Point(29, 87);
             this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(120, 94);
+            this.checkedListBox1.Size = new System.Drawing.Size(223, 139);
             this.checkedListBox1.TabIndex = 4;
             // 
             // Form1
